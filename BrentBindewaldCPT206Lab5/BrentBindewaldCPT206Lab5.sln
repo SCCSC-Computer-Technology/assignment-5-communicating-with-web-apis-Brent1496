@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrentBindewaldCPT206Lab5", "BrentBindewaldCPT206Lab5\BrentBindewaldCPT206Lab5.csproj", "{FCA15229-85BE-4295-8529-A66031844938}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StudentProfileWebApi", "..\..\..\..\..\Games\StudentProfileWebApi\StudentProfileWebApi.csproj", "{652C3DF6-7BB6-425C-AD49-71F6822867A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCA15229-85BE-4295-8529-A66031844938}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCA15229-85BE-4295-8529-A66031844938}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCA15229-85BE-4295-8529-A66031844938}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCA15229-85BE-4295-8529-A66031844938}.Release|Any CPU.Build.0 = Release|Any CPU
+		{652C3DF6-7BB6-425C-AD49-71F6822867A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{652C3DF6-7BB6-425C-AD49-71F6822867A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{652C3DF6-7BB6-425C-AD49-71F6822867A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{652C3DF6-7BB6-425C-AD49-71F6822867A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA885352-456F-42F6-8D3F-2E8C06A246BF}
+	EndGlobalSection
+EndGlobal
